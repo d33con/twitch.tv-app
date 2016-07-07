@@ -1,0 +1,49 @@
+body {
+  padding-top: 20px;
+  font-family: 'Lato', sans-serif;
+  font-size: 18px;
+  background: #B2DFDB;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: 1px 2px 2px #000000;
+  margin-bottom: 50px;
+  font-size: 48px;
+}
+
+.nav {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: -20px;
+  text-decoration: underline; 
+  text-decoration-style: dotted;
+}
+
+form {
+  margin-top: 5px;
+  margin-bottom: -10px;
+}
+
+p {
+  padding-left: 64px;
+  margin-top: -15px;
+  font-size: 14px;
+}
+
+img {
+  border-radius: 10px;
+  margin-right: 10px;
+  }
+
+.glyphicon-ok {
+  float: right;
+  color: #388E3C;
+  padding: 15px;
+}
+
+.glyphicon-remove {
+  float: right;
+  color: #C62828;
+  padding: 15px;
+}
